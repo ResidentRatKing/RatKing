@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dedlands
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Python and Visual Basic
+- 🌱 I’m currently learning HTML and JavaScript
 - 💞️ I’m looking to collaborate on begginer projects
 - 📫 How to reach me brycemmathes22@gmail.com
