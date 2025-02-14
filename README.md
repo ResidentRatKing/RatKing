@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Dedlands
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning HTML and JavaScript
-- 💞️ I’m looking to collaborate on begginer projects
+- 👋 Hi, I’m @ResidentRatKing
+- 👀 I’m interested in game development in Godot and cyber security
+- 🌱 I’m currently learning GDScript
