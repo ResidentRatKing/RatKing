@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ResidentRatKing
-- 👀 I’m interested in game development in Godot and cyber security
-- 🌱 I’m currently learning GDScript
+- 👀 I’m interested in cyber security and low level development
+- 🌱 I’m currently learning Rust
